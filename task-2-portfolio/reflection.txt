@@ -1,0 +1,26 @@
+# Task 2 — Student Digital Portfolio
+
+**Student:** Parth Kute | **Reg No.:** 25BSA10151 | **Branch:** CSE (Cloud Computing and Automation)
+
+---
+
+## GitHub Profile 
+Profile README created in a repository named after my username. It includes:
+- Full name: Parth Kute
+- Branch: CSE (Cloud Computing and Automation), First Year
+- Reg No.: 25BSA10151
+- Goal: "I hope to learn cloud infrastructure, automation scripting, and how to build scalable systems that solve real-world problems."
+
+## LinkedIn
+Education section updated with:
+- Degree: B.Tech — CSE (Cloud Computing and Automation)
+- Institution: VIT Bhopal University
+- Expected Graduation: 2029
+
+## Reflection 
+
+I chose to set up profiles on GitHub, LinkedIn, and Kaggle as my three platforms for this task. GitHub is a version control and code-hosting platform used by millions of developers worldwide. As a CSE student specialising in Cloud Computing and Automation, GitHub will be essential — cloud and DevOps roles expect candidates to have public repositories demonstrating their infrastructure-as-code scripts, automation workflows, and software projects. Starting my GitHub profile now, even with minimal content, gives me a foundation to build on from semester one.
+
+LinkedIn is the world's leading professional network, and having my Education section filled in means I have a presence that recruiters, internship coordinators, and alumni can find. Over the next four years, I plan to add certifications — particularly cloud certifications like AWS or Azure — along with internship experiences and project highlights.
+
+Kaggle is a data science and machine learning competition platform. Although my branch focuses more on cloud and automation than on pure data science, understanding data pipelines and analysis is directly relevant to cloud engineering roles. I plan to use Kaggle to practise Python and explore dataset analysis by my second year.

@@ -1,0 +1,50 @@
+# Task 4 — Professional Email Drafts
+
+**Student:** Parth Kute | **Reg No.:** 25BSA10151 | **Branch:** CSE (Cloud Computing and Automation)
+
+---
+
+## Email 1 — Assignment Deadline Extension Request
+
+**Subject:** Request for Assignment Submission Extension — Parth Kute — 25BSA10151
+
+Dear Professor [Last Name],
+
+I hope this email finds you well. I am Parth Kute (Reg. No. 25BSA10151), a first-year student in B.Tech CSE (Cloud Computing and Automation). I am writing to respectfully request a short extension for the submission of [Assignment Name], which is currently due on [Date].
+
+Over the past few days, I have been unwell and was unable to attend classes or work on the assignment as planned. I have completed the initial research and outline, and I am confident I can submit a complete and quality submission if granted two additional days.
+
+I would be grateful if you could consider extending the deadline to [Requested Date]. I apologise sincerely for any inconvenience caused and assure you this will not affect my future submissions. I am happy to provide a medical certificate if required.
+
+Thank you for your time and understanding.
+
+Warm regards,
+Parth Kute
+Reg. No.: 25BSA10151
+B.Tech CSE (Cloud Computing and Automation) — First Year
+VIT Bhopal University
+parth.25bsa10151@vitbhopal.ac.in
+
+---
+
+## Email 2 — Internship Interest Email
+
+**Subject:** Application for Summer Internship Opportunity — Cloud Computing — VIT Bhopal University
+
+Dear [Coordinator's Name],
+
+I am writing to express my sincere interest in a summer internship opportunity at [Company Name]. I am Parth Kute, a first-year B.Tech student specialising in CSE (Cloud Computing and Automation) at VIT Bhopal University, with an expected graduation in 2029.
+
+I am currently building foundational skills in cloud infrastructure, Python scripting, and Linux systems, and I am enthusiastic about gaining hands-on, industry-level exposure during my upcoming summer break (May–July 2026). I am familiar with tools such as GitHub, Google Workspace, and HackerRank, which I use regularly for academic purposes.
+
+I am a quick learner and a highly motivated individual who is eager to contribute to real-world cloud and automation projects. I would greatly appreciate the opportunity to learn from experienced professionals at your organisation. I have attached my resume for your reference and would welcome a brief conversation at your convenience.
+
+Thank you for considering my application. I look forward to hearing from you.
+
+Yours sincerely,
+Parth Kute
+Reg. No.: 25BSA10151
+B.Tech CSE (Cloud Computing and Automation) — First Year
+VIT Bhopal University
+parth.25bsa10151@vitbhopal.ac.in
+linkedin.com/in/parth-kute-42461a378
