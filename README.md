@@ -67,13 +67,5 @@ Researched **UPI/Online Payment Fraud**, wrote a 200-word case study, and create
 -  **Kaggle Profile:**  [https://www.kaggle.com/parthkute07]
 
 ---
-
-
-
-
-
-
 > *Submitted by Parth Kute (25BSA10151) as part of the VITyarthi E-Learning Platform project assessment.*
 >
-
-
